@@ -1,0 +1,6 @@
+20230710	02:02:27	e6861871-8e36-48f6-b69b-9f3db87891fc	TypeError: allowedOrigins.indexOf is not a function	POST	/user	undefined
+20230710	02:03:29	82b83008-f89a-46e3-9fbd-3e7d6cb45f8d	TypeError: allowedOrigins.indexOf is not a function	POST	/user	undefined
+20230710	02:04:45	765074b5-706c-4583-afca-823d8df2ce44	TypeError: allowedOrigins.indexOf is not a function	POST	/user	undefined
+20230710	02:04:47	370d4ee6-125e-4456-ad22-bcc8075742ff	TypeError: allowedOrigins.indexOf is not a function	POST	/user	undefined
+20230710	02:10:12	56c3019d-ba69-4874-8f36-30c1ed58cdb9	ReferenceError: allowedOrigins is not defined	POST	/user	undefined
+20230710	02:18:42	3296acb3-cdcc-4110-9902-63b1674a428e	ReferenceError: allowedOrigins is not defined	POST	/user	undefined
